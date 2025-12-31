@@ -1,6 +1,6 @@
 # Quixlab Admin Dashboard Template
 
-![quixlab](https://demo.themefisher.com/thumbnails/quixlab.png)
+![quixlab](https://assets.teamosis.com/thumbs/quixlab.png)
 
 <!-- download -->
 ## Download
